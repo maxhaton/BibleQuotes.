@@ -1,17 +1,20 @@
 # Some bible quotations, plus small amounts of theology.
-## Life after death
+### Life after death
 > Acts 17:31 "For he has set a a day when he will judge the world with justice by the main he has appointed."
-## Good and evil
+### Good and evil
 > John 3:16: "For god so loved the world that he gave his one and only Son, that whoever belioeves in him shall not perish but have eteranal life."
 ## Coping with suffering
 ### Blind belief in god
 > Job 13:15a: "Though he slay me, yet I will hope in him.
+
 ### Prayer
 > St Paul: "I consider that our present sufferings are not worth comparing with the glory that will be revealed in us"
-## Moral Behaviour: Reason vs. Reasons
+
+### Moral Behaviour: Reason vs. Reasons
 > Ephesians 4:32: "Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you".
 
 > Matthew 8:38: "You have heard it was said 'Eye for eye, and tooth for tooth'... But I tell you: Love your enemies and pray for those who persecute you"
+
 ## Revelation
 * Nicene Creed.
 
@@ -22,9 +25,12 @@
     
 > Stephen Jay Gould: [Non-overlapping magisteria]
 
-### Miracles
+## Miracles
 #### In the old testatment
 > Exodus 14:21-22: "Then Moses stretched out his and over the sea... [then] The waters were divided, and the Israelites went through the sea on dry ground.
+
+#### Recent "Miracles"
+1858 -- 18 visions of the "Virgin Mary"
 
 ### Arguments for the existence of god
 #### The ontological argument.
@@ -40,3 +46,8 @@ From William Paley: Note the inherent structure to the Universe, the complexity.
 * From experience: Some people simply find God's existence to be self-evident. 
 * Morality: We all have (Do we?) some - inherent - notion of right and wrong, this must have come from somewhere, e.g. God. (QED. God exists?)
 * Many people are simply brought up with God *around* them and therefore do not ned a reason to be convinced of God's existence.
+
+## Worship
+#### Eucharist
+> Matthew 26:26-28: "Jesus took the bread, gave thanks and broke it, and gave it to his disciples, saying "Take and eat; this is my body." Then he took the cup, gave thanks, and offered to them, saying, "Drink from it, all of you. This is my blood of the new covenant, which is poured out for many for the forgiveness of sins"
+
