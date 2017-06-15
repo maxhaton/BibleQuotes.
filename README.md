@@ -1,4 +1,4 @@
-# Some bible quotations.
+# Some bible quotations, plus small amounts of theology.
 ## Life after death
 > Acts 17:31 "For he has set a a day when he will judge the world with justice by the main he has appointed."
 ## Good and evil
@@ -22,3 +22,8 @@
     
 > Stephen Jay Gould: [Non-overlapping magisteria]
 
+### Arguments for the existence of god
+#### The ontological argument.
+Anselm: Definition of God as "that than which nothing greater can be thought". This God exists in the mind of all, regardless of belief, and therefore must exist in the physical world
+#### The cosmological argument
+Aquinas: The universe cannot have been created *Ex nihilo*, it postulates that furthermore all things must be the effect of a cause. This forms the roots of a tree leading back to God at the very beginning.
