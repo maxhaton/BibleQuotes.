@@ -14,7 +14,7 @@
 ## Revelation
 * Nicene Creed.
 ## Creation
-> Genesis 1:1 "In the beginnning god created the heavens and the earth.
-> Pope Francis, 2014: "Evolution in nature is not inconsistent with the notion of creation"
-> Stephen Jay Gould: [Non-overlapping magisteria]
+    > Genesis 1:1 "In the beginnning god created the heavens and the earth.
+    > Pope Francis, 2014: "Evolution in nature is not inconsistent with the notion of creation"
+    > Stephen Jay Gould: [Non-overlapping magisteria]
 
