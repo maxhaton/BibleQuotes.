@@ -10,11 +10,14 @@
 > St Paul: "I consider that our present sufferings are not worth comparing with the glory that will be revealed in us"
 ## Moral Behaviour: Reason vs. Reasons
 > Ephesians 4:32: "Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you".
+
 > Matthew 8:38: "You have heard it was said 'Eye for eye, and tooth for tooth'... But I tell you: Love your enemies and pray for those who persecute you"
 ## Revelation
 * Nicene Creed.
 ## Creation
-    > Genesis 1:1 "In the beginnning god created the heavens and the earth.
-    > Pope Francis, 2014: "Evolution in nature is not inconsistent with the notion of creation"
-    > Stephen Jay Gould: [Non-overlapping magisteria]
+> Genesis 1:1 "In the beginnning god created the heavens and the earth.
+    
+> Pope Francis, 2014: "Evolution in nature is not inconsistent with the notion of creation"
+    
+> Stephen Jay Gould: [Non-overlapping magisteria]
 
