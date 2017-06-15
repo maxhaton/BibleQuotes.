@@ -27,3 +27,9 @@
 Anselm: Definition of God as "that than which nothing greater can be thought". This God exists in the mind of all, regardless of belief, and therefore must exist in the physical world
 #### The cosmological argument
 Aquinas: The universe cannot have been created *Ex nihilo*, it postulates that furthermore all things must be the effect of a cause. This forms the roots of a tree leading back to God at the very beginning.
+#### The teleological argument
+From William Paley: Note the inherent structure to the Universe, the complexity. It must have been designed by someone. __The theory, and evidence for, evolution raises significant questions as to the validity of this assumption.__ There must have been a "God" to bring this about.
+#### Less rigorous arguments
+* From experience: Some people simply find God's existence to be self-evident. 
+* Morality: We all have (Do we?) some - inherent - notion of right and wrong, this must have come from somewhere, e.g. God. (QED. God exists?)
+* Many people are simply brought up with God *around* them and therefore do not ned a reason to be convinced of God's existence.
