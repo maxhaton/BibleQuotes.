@@ -1,9 +1,14 @@
 # Some bible quotations, plus small amounts of theology.
 ### Life after death
 > Acts 17:31 "For he has set a a day when he will judge the world with justice by the main he has appointed."
+
+> John 11:25b-26a "I am the resurrection and the life. He who believes in me will live, evem though he dies, and whoever lives and believes in me will never die"
+
 ### Good and evil
 > John 3:16: "For god so loved the world that he gave his one and only Son, that whoever belioeves in him shall not perish but have eteranal life."
+
 ## Coping with suffering
+
 ### Blind belief in god
 > Job 13:15a: "Though he slay me, yet I will hope in him.
 
