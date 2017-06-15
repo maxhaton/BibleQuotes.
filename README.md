@@ -8,4 +8,5 @@
 ### Prayer
 > St Paul: "I consider that our present sufferings are not worth comparing with the glory that will be revealed in us"
 # Moral Behaviour: Reason vs. Reasons
-> Ephesians 4:32: "Be kind and compassionate to one another, forgiving 
+> Ephesians 4:32: "Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you".
+> Matthew 8:38: "You have heard it was said 'Eye for eye, and tooth for tooth'... But I tell you: Love your enemies and pray for those who persecute you"
