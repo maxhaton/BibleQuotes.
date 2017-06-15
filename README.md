@@ -1,4 +1,4 @@
-# Many random bibile quotations.
+# Some bible quotations.
 ## Life after death
 > Acts 17:31 "For he has set a a day when he will judge the world with justice by the main he has appointed."
 ## Good and evil
@@ -13,3 +13,5 @@
 > Matthew 8:38: "You have heard it was said 'Eye for eye, and tooth for tooth'... But I tell you: Love your enemies and pray for those who persecute you"
 ## Revelation
 * Nicene Creed.
+## Creation
+> Genesis 1:1 "In the beginnning god created the heavens and the earth.
